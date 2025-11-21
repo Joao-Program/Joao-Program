@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Olá! Eu sou João Paulo Lobo
 
-<!--
-**Joao-Program/Joao-Program** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Front-End Júnior | Suporte Técnico | Estudante de ADS
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou iniciando minha jornada como desenvolvedor. 
+Atualmente estudo JavaScript, MySQL e POO, enquanto desenvolvo projetos próprios para ampliar minhas habilidades práticas.
+Busco minha primeira oportunidade na área de TI, seja como Suporte ou Desenvolvedor Front-End Júnior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias que utilizo
+
+JavaScript
+HTML / CSS
+MySQL
+VSCode
+Git & GitHub
+
+📌 O que estou estudando no momento
+
+React.js
+MySQL avançado
+Lógica de programação e POO
+
+📂 Projetos que você vai encontrar aqui
+
+Aplicações front-end simples com JavaScript
+Projetos usando APIs públicas
+Ferramentas e mini-sistemas feitos durante meus estudos
+Exercícios e desafios da faculdade e cursos
+
+📫 Como falar comigo
+
+📧 jpaulolobo2509@gmail.com
+📍 Lauro de Freitas – BA
+
+💡 Curiosidade
+
+Sou extremamente persistente: não paro de buscar a solução de um problema até encontrar.
+Gosto de aprender coisas novas todos os dias.
+
+OBRIGADO POR VISITAR MEU PERFIL! 🚀
