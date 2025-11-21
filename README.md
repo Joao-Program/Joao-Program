@@ -20,6 +20,12 @@ React.js
 MySQL avançado
 Lógica de programação e POO
 
+## 📊 **Estatísticas do GitHub**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-Program&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Program&layout=compact&theme=dark)
+
+
 📂 Projetos que você vai encontrar aqui
 
 Aplicações front-end simples com JavaScript
